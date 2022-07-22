@@ -1,0 +1,9 @@
+Explique o que é programação orientada a objetos com completude, evidenciando o que é , a motivação as e suas características. 
+
+Orientacao a objetos diferente de programacao estruturada, consiste em trazer a programacao mais proximo da realidade, ou seja, a programacao mais simples e facil de entender. Os paradigmas de orientacao a objetos sao: Polimorfismo, Herança, Abstraçao e Encapsulamento.
+O polimorfismo é a capacidade de um objeto de serem comportados de forma diferente de acordo com o tipo de objeto.
+A Herança é a capacidade de um objeto herdar caracteristicas de outro objeto.
+A Abstraçao é o objeto abstrarir caracteristicas de um objeto, para agrupar estas caracteristicas semelhantes em uma unica classe.
+O encapsulamento é o objeto encapsular caracteristicas de um objeto, para agrupar estas caracteristicas semelhantes em uma unica classe.
+A orietacao a Objetos, possui também classes e objetos. Objeto é instanciado, e passa a ser a ocorrencia de uma classe, a classe é um agrupamento de semelhantes e possui metodos e atributos.
+os metodos sao funcoes que podem ser executadas dentro de uma classe. Ja o atributo é uma variavel que pode ser acessada dentro de uma classe, podendo ela ser Public ou Private. Quando a variavel é Public, ela pode ser acessada fora da classe, quando for Private, ela nao pode ser acessada fora da classe.
