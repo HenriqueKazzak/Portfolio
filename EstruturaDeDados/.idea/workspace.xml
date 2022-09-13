@@ -4,7 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79f23273-7e3d-4da5-9582-e9a95a00336f" name="Changes" comment="projeto renomeado&#10;renomeado para Estrutura de Dados" />
+    <list default="true" id="79f23273-7e3d-4da5-9582-e9a95a00336f" name="Changes" comment="projeto renomeado&#10;renomeado para Estrutura de Dados">
+      <change beforePath="$PROJECT_DIR$/.idea/EstruturaDeDados.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/EstruturaDeDados.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/AmazonSDEI.java" beforeDir="false" afterPath="$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/AmazonSDEI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/CanConstruct/canConstructStr.java" beforeDir="false" afterPath="$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/CanConstruct/canConstructStr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/PivotIndex/PivotIndex.java" beforeDir="false" afterPath="$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/PivotIndex/PivotIndex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/TotalMoney/calcTotalMoney.java" beforeDir="false" afterPath="$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/TotalMoney/calcTotalMoney.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/aula/ArrayClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/aula/ArrayClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/aula/Exemplo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/aula/Exemplo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/aula/Exercicio1a.java" beforeDir="false" afterPath="$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/aula/Exercicio1a.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/aula/Exercicio1b.java" beforeDir="false" afterPath="$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/aula/Exercicio1b.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/aula/Exercicio1c.java" beforeDir="false" afterPath="$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/aula/Exercicio1c.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/aula/Exercicio1d.java" beforeDir="false" afterPath="$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/aula/Exercicio1d.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/canConstruct2.java" beforeDir="false" afterPath="$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/canConstruct2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/permutationTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/permutationTwo.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,20 +57,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/henrique.karmierczak/Documents/Porfolio/EstruturaDeDados"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/henrique.karmierczak/Documents/Portfolio/EstruturaDeDados&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.PowerFour">
-    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="project.kazzak.palindrome.Palindrome" />
-      <module name="array" />
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="project.kazzak.aula" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.AmazonSDEI">
+    <configuration name="AmazonSDEI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="project.kazzak.AmazonSDEI" />
+      <module name="EstruturaDeDados" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="project.kazzak.palindrome.*" />
+          <option name="PATTERN" value="project.kazzak.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,12 +97,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PowerFour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="project.kazzak.PowerFour.PowerFour" />
-      <module name="array" />
+    <configuration name="ArrayClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="project.kazzak.aula.ArrayClass" />
+      <module name="EstruturaDeDados" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="project.kazzak.PowerFour.*" />
+          <option name="PATTERN" value="project.kazzak.aula.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio1c" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="project.kazzak.aula.Exercicio1c" />
+      <module name="EstruturaDeDados" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="project.kazzak.aula.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PivotIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="project.kazzak.PivotIndex.PivotIndex" />
+      <module name="EstruturaDeDados" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="project.kazzak.PivotIndex.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="canConstruct2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="project.kazzak.canConstruct2" />
+      <module name="EstruturaDeDados" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="project.kazzak.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,8 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PowerFour" />
-        <item itemvalue="Application.Palindrome" />
+        <item itemvalue="Application.AmazonSDEI" />
+        <item itemvalue="Application.Exercicio1c" />
+        <item itemvalue="Application.canConstruct2" />
+        <item itemvalue="Application.ArrayClass" />
+        <item itemvalue="Application.PivotIndex" />
       </list>
     </recent_temporary>
   </component>
@@ -137,6 +216,26 @@
           <line>7</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/TotalMoney/calcTotalMoney.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/PivotIndex/PivotIndex.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/aula/ArrayClass.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/canConstruct2.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <pin-to-top-manager>
@@ -144,10 +243,5 @@
         <PinnedItemInfo parentTag="project.kazzak.palindrome.ListNode" memberName="val" />
       </pinned-members>
     </pin-to-top-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="head" language="JAVA" />
-      </configuration>
-    </watches-manager>
   </component>
 </project>

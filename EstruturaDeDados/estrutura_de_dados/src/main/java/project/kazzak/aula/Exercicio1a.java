@@ -1,4 +1,4 @@
-package project.kazzak;
+package project.kazzak.aula;
 
 import java.util.Arrays;
 import java.util.Collections;

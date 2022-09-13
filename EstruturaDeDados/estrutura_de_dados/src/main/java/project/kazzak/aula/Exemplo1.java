@@ -1,3 +1,5 @@
+package project.kazzak.aula;
+
 import org.apache.commons.lang3.StringUtils;
 
 import javax.swing.*;

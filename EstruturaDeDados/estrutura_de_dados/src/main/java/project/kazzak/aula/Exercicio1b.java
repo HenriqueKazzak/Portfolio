@@ -1,4 +1,4 @@
-package project.kazzak;
+package project.kazzak.aula;
 public class Exercicio1b {
     public static void main(String... args){
         Integer[] b = new Integer[10];

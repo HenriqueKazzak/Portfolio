@@ -1,4 +1,4 @@
-package project.kazzak;
+package project.kazzak.aula;
 
 public class Exercicio1c {
     public static void main(String... args){
