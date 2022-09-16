@@ -4,24 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79f23273-7e3d-4da5-9582-e9a95a00336f" name="Changes" comment="projeto renomeado&#10;renomeado para Estrutura de Dados">
-      <change beforePath="$PROJECT_DIR$/.idea/EstruturaDeDados.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/EstruturaDeDados.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="79f23273-7e3d-4da5-9582-e9a95a00336f" name="Changes" comment="First solve AmazonSDEI&#10;Not working yet">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/AmazonSDEI.java" beforeDir="false" afterPath="$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/AmazonSDEI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/CanConstruct/canConstructStr.java" beforeDir="false" afterPath="$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/CanConstruct/canConstructStr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/PivotIndex/PivotIndex.java" beforeDir="false" afterPath="$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/PivotIndex/PivotIndex.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/TotalMoney/calcTotalMoney.java" beforeDir="false" afterPath="$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/TotalMoney/calcTotalMoney.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/aula/ArrayClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/aula/ArrayClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/aula/Exemplo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/aula/Exemplo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/aula/Exercicio1a.java" beforeDir="false" afterPath="$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/aula/Exercicio1a.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/aula/Exercicio1b.java" beforeDir="false" afterPath="$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/aula/Exercicio1b.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/aula/Exercicio1c.java" beforeDir="false" afterPath="$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/aula/Exercicio1c.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/aula/Exercicio1d.java" beforeDir="false" afterPath="$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/aula/Exercicio1d.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/canConstruct2.java" beforeDir="false" afterPath="$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/canConstruct2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/permutationTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/permutationTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BuscaBinaria/Class/Pessoa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BuscaBinaria/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TwoNumbers/TwoNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/AmazonSDEI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/aula/ArrayClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/aula/Exemplo1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/aula/Exercicio1a.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/aula/Exercicio1b.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/aula/Exercicio1c.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/aula/Exercicio1d.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/canConstruct2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/permutationTwo.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -175,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661356406078</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="First solve AmazonSDEI&#10;Not working yet">
+      <created>1663037628043</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663037628043</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -191,7 +194,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="projeto renomeado&#10;renomeado para Estrutura de Dados" />
-    <option name="LAST_COMMIT_MESSAGE" value="projeto renomeado&#10;renomeado para Estrutura de Dados" />
+    <MESSAGE value="First solve AmazonSDEI&#10;Not working yet" />
+    <option name="LAST_COMMIT_MESSAGE" value="First solve AmazonSDEI&#10;Not working yet" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -227,14 +231,24 @@
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/aula/ArrayClass.java</url>
-          <line>62</line>
-          <option name="timeStamp" value="17" />
+          <url>file://$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/AmazonSDE/AmazonSDEI.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="29" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/canConstruct2.java</url>
-          <line>25</line>
-          <option name="timeStamp" value="21" />
+          <url>file://$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/AmazonSDE/AmazonSDEI.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/AmazonSDE/AmazonSDEI.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/AmazonSDE/AmazonSDEI.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="32" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -243,5 +257,10 @@
         <PinnedItemInfo parentTag="project.kazzak.palindrome.ListNode" memberName="val" />
       </pinned-members>
     </pin-to-top-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="hashmapFamily" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
