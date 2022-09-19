@@ -22,7 +22,7 @@
         </thead>
         <tbody>
             <tr th:each="emprego:${empregos}">
-                <td th:text>[[${emprego.id}]]</td>
+                <td th:inline="text">[[${emprego.id}]]</td>
                 <td th:inline="text">[[${emprego.titulo}]]</td>
                 <td th:inline="text">[[${emprego.empresa}]]</td>
                 <td th:inline="text">[[${emprego.descricao}]]</td>
