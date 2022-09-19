@@ -19,6 +19,7 @@
             <th>Titulo</th>
             <th>Empresa</th>
             <th>Descricao</th>
+            <th>Editar</th>
         </thead>
         <tbody>
             <tr th:each="emprego:${empregos}">
@@ -26,6 +27,7 @@
                 <td th:inline="text">[[${emprego.titulo}]]</td>
                 <td th:inline="text">[[${emprego.empresa}]]</td>
                 <td th:inline="text">[[${emprego.descricao}]]</td>
+                <td> <a th:href="@{/edit/{id}(id = ${emprego.id})}">Edit</a></td>
             </tr>
         </tbody>
     </table>

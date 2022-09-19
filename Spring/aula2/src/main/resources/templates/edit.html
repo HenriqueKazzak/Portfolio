@@ -2,10 +2,32 @@
 <html lang="en" xmlns:th="https://www.thymeleaf.org">
 <head>
     <meta charset="UTF-8">
-    <title>Edit</title>
+    <title>Editar</title>
 </head>
 <body>
-
-
+    <h1>Formulario de Emprego Editar</h1>
+    <form action="#" th:action="@{/update/{id}(id = ${emprego.get().getId()})}" th:object="${emprego}" method="post">
+        Id: <input type="text" th:field="*{id}" class="form-control" readonly/>
+        <br>
+        Titulo: <input type="text" th:field="*{titulo}">
+        <span th:if="${#fields.hasErrors('titulo')}"
+              th:errors="*{titulo}">
+                <br>
+          </span>
+        <br>
+        Empresa: <input type="text" th:field="*{empresa}">
+        <span th:if="${#fields.hasErrors('empresa')}"
+              th:errors="*{empresa}">
+                <br>
+          </span>
+        <br>
+        Descricao: <textarea rows="3" th:field="*{descricao}"></textarea>
+        <span th:if="${#fields.hasErrors('descricao')}"
+              th:errors="*{descricao}">
+                <br>
+          </span>
+        <br>
+        <input type="submit" value="Upadate">
+    </form>
 </body>
 </html>
