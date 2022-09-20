@@ -2,10 +2,8 @@ package com.kazzak.aula2.Entity;
 
 import com.sun.istack.NotNull;
 import org.hibernate.annotations.BatchSize;
-import javax.persistence.Entity;
-import javax.persistence.GeneratedValue;
-import javax.persistence.GenerationType;
-import javax.persistence.Id;
+
+import javax.persistence.*;
 import javax.validation.constraints.Size;
 
 
@@ -14,6 +12,8 @@ public class Emprego {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     private Long id;
+
+    private Long idUser;
     @NotNull
     @Size(min = 4)
     private String titulo;

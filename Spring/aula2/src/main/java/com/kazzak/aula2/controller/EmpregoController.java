@@ -45,11 +45,17 @@ public class EmpregoController {
         return "edit";
     }
     @PostMapping("/update/{id}")
-    public String updateForm(@PathVariable Long id, @Valid Emprego emprego, BindingResult result, Model model){
+    public String updateForm(@PathVariable Long id, @Valid Emprego emprego, BindingResult result,Model model){
         if (result.hasErrors()) {
             return "edit";
         }
         empregoRepository.save(emprego);
+        return "redirect:/";
+    }
+    @GetMapping("/delete/{id}")
+    public String delete(@PathVariable Long id){
+        empregoRepository.deleteById(id);
+
         return "redirect:/";
     }
 

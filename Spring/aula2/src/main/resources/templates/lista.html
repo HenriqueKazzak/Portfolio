@@ -27,7 +27,10 @@
                 <td th:inline="text">[[${emprego.titulo}]]</td>
                 <td th:inline="text">[[${emprego.empresa}]]</td>
                 <td th:inline="text">[[${emprego.descricao}]]</td>
-                <td> <a th:href="@{/edit/{id}(id = ${emprego.id})}">Edit</a></td>
+                <td>
+                    <a th:href="@{/edit/{id}(id = ${emprego.id})}">Edit</a>
+                    <a th:href="@{/delete/{id}(id = ${emprego.id})}">Delete</a>
+                </td>
             </tr>
         </tbody>
     </table>
