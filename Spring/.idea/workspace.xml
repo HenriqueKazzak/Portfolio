@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d1e983ac-1f78-47bb-8410-6e7278dc2c6e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/aula2/src/main/java/com/kazzak/aula2/EmpregoRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula2/src/main/java/com/kazzak/aula2/Entity/Emprego.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula2/src/main/java/com/kazzak/aula2/controller/EmpregoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula2/src/main/resources/templates/empregoForm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula2/src/main/resources/templates/lista.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DispositivosMoveis/Hello/Hello/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DispositivosMoveis/Hello/Hello/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DispositivosMoveis/Hello/Hello/app/src/main/java/ifsc/rbeninca/hello/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DispositivosMoveis/Hello/Hello/app/src/main/java/ifsc/rbeninca/hello/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EstruturaDeDados/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EstruturaDeDados/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EstruturaDeDados/BuscaBinaria/Class/Pessoa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EstruturaDeDados/BuscaBinaria/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EstruturaDeDados/TwoNumbers/TwoNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EstruturaDeDados/estrutura_de_dados/src/main/java/project/kazzak/AmazonSDEI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EstruturaDeDados/estrutura_de_dados/src/main/java/project/kazzak/aula/ArrayClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EstruturaDeDados/estrutura_de_dados/src/main/java/project/kazzak/aula/Exemplo1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EstruturaDeDados/estrutura_de_dados/src/main/java/project/kazzak/aula/Exercicio1a.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EstruturaDeDados/estrutura_de_dados/src/main/java/project/kazzak/aula/Exercicio1b.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EstruturaDeDados/estrutura_de_dados/src/main/java/project/kazzak/aula/Exercicio1c.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EstruturaDeDados/estrutura_de_dados/src/main/java/project/kazzak/aula/Exercicio1d.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EstruturaDeDados/estrutura_de_dados/src/main/java/project/kazzak/canConstruct2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EstruturaDeDados/estrutura_de_dados/src/main/java/project/kazzak/permutationTwo.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2Ere2gAdAqNSiuBONFAsCCXU5qx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/henrique.karmierczak/Documents/Portfolio/Spring/aula2"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d1e983ac-1f78-47bb-8410-6e7278dc2c6e" name="Changes" comment="" />
+      <created>1663357927353</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663357927353</updated>
+      <workItem from="1663357933634" duration="14000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
