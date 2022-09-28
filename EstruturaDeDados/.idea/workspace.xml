@@ -4,9 +4,38 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79f23273-7e3d-4da5-9582-e9a95a00336f" name="Changes" comment="First solve AmazonSDEI&#10;Not working yet">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="79f23273-7e3d-4da5-9582-e9a95a00336f" name="Changes" comment="Intelie">
+      <change afterPath="$PROJECT_DIR$/../Java/Intelie/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/Intelie/challenge-eventstore/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/Intelie/challenge-eventstore/challenge-eventstore.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/Intelie/challenge-eventstore/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/Intelie/challenge-eventstore/src/main/java/net/intelie/challenges/Event.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/Intelie/challenge-eventstore/src/main/java/net/intelie/challenges/EventIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/Intelie/challenge-eventstore/src/main/java/net/intelie/challenges/EventIteratorClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/Intelie/challenge-eventstore/src/main/java/net/intelie/challenges/EventStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/Intelie/challenge-eventstore/src/main/java/net/intelie/challenges/EventStoreList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/Intelie/challenge-eventstore/src/test/java/net/intelie/challenges/EventIteratorClassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/Intelie/challenge-eventstore/src/test/java/net/intelie/challenges/EventStoreListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/Intelie/challenge-eventstore/target/classes/net/intelie/challenges/Event.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/Intelie/challenge-eventstore/target/classes/net/intelie/challenges/EventIterator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/Intelie/challenge-eventstore/target/classes/net/intelie/challenges/EventIteratorClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/Intelie/challenge-eventstore/target/classes/net/intelie/challenges/EventStore.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/Intelie/challenge-eventstore/target/classes/net/intelie/challenges/EventStoreList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/Intelie/challenge-eventstore/target/test-classes/net/intelie/challenges/EventIteratorClassTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/Intelie/challenge-eventstore/target/test-classes/net/intelie/challenges/EventStoreListTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/Intelie/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/Intelie/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/Intelie/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/Intelie/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/Intelie/.idea/libraries/Maven__junit_junit_4_13_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/Intelie/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/Intelie/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/Intelie/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/Intelie/.idea/teste.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/Intelie/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/Intelie/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/Intelie/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/Intelie/challenge-eventstore" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +53,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HierarchyBrowserManager">
@@ -47,6 +77,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Downloaded.Files.Path.Enabled": "false",
     "Repository.Attach.Annotations": "false",
     "Repository.Attach.JavaDocs": "false",
@@ -56,7 +87,8 @@
     "WebServerToolWindowFactoryState": "false",
     "create.test.in.the.same.root": "true",
     "dart.analysis.tool.window.visible": "false",
-    "last_opened_file_path": "C:/Users/henrique.karmierczak/Documents/Portfolio/EstruturaDeDados",
+    "last_opened_file_path": "C:/Users/henrique.karmierczak/Documents/Portfolio/Java/Intelie",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -69,16 +101,17 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="project.kazzak.aula.atividadeListaEncadeada.Class" />
       <recent name="project.kazzak.aula" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AmazonSDEI">
-    <configuration name="AmazonSDEI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="project.kazzak.AmazonSDEI" />
+  <component name="RunManager" selected="Application.Exercicio6">
+    <configuration name="Exercicio1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="project.kazzak.aula.atividadeListaEncadeada.Exercicio1" />
       <module name="EstruturaDeDados" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="project.kazzak.*" />
+          <option name="PATTERN" value="project.kazzak.aula.atividadeListaEncadeada.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="project.kazzak.aula.ArrayClass" />
+    <configuration name="Exercicio2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="project.kazzak.aula.atividadeListaEncadeada.Exercicio2" />
       <module name="EstruturaDeDados" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="project.kazzak.aula.*" />
+          <option name="PATTERN" value="project.kazzak.aula.atividadeListaEncadeada.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicio1c" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="project.kazzak.aula.Exercicio1c" />
+    <configuration name="Exercicio3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="project.kazzak.aula.atividadeListaEncadeada.Exercicio3" />
       <module name="EstruturaDeDados" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="project.kazzak.aula.*" />
+          <option name="PATTERN" value="project.kazzak.aula.atividadeListaEncadeada.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PivotIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="project.kazzak.PivotIndex.PivotIndex" />
+    <configuration name="Exercicio4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="project.kazzak.aula.atividadeListaEncadeada.Exercicio4" />
       <module name="EstruturaDeDados" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="project.kazzak.PivotIndex.*" />
+          <option name="PATTERN" value="project.kazzak.aula.atividadeListaEncadeada.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,12 +158,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="canConstruct2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="project.kazzak.canConstruct2" />
+    <configuration name="Exercicio6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="project.kazzak.aula.atividadeListaEncadeada.Exercicio6" />
       <module name="EstruturaDeDados" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="project.kazzak.*" />
+          <option name="PATTERN" value="project.kazzak.aula.atividadeListaEncadeada.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AmazonSDEI" />
-        <item itemvalue="Application.Exercicio1c" />
-        <item itemvalue="Application.canConstruct2" />
-        <item itemvalue="Application.ArrayClass" />
-        <item itemvalue="Application.PivotIndex" />
+        <item itemvalue="Application.Exercicio6" />
+        <item itemvalue="Application.Exercicio4" />
+        <item itemvalue="Application.Exercicio3" />
+        <item itemvalue="Application.Exercicio2" />
+        <item itemvalue="Application.Exercicio1" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +189,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661292143781</updated>
-      <workItem from="1663710990620" duration="988000" />
+      <workItem from="1663710990620" duration="8134000" />
+      <workItem from="1663784940925" duration="1007000" />
+      <workItem from="1663972727351" duration="408000" />
+      <workItem from="1664128743307" duration="1168000" />
+      <workItem from="1664304603192" duration="12948000" />
     </task>
     <task id="LOCAL-00001" summary="projeto renomeado&#10;renomeado para Estrutura de Dados">
       <created>1661356406078</created>
@@ -172,7 +209,28 @@
       <option name="project" value="LOCAL" />
       <updated>1663037628043</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="First solve AmazonSDEI&#10;Not working yet">
+      <created>1663712037132</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663712037132</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add new DS exercise">
+      <created>1664321027830</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1664321027830</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add new DS exercise">
+      <created>1664321328781</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1664321328781</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -183,7 +241,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -192,7 +262,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="projeto renomeado&#10;renomeado para Estrutura de Dados" />
     <MESSAGE value="First solve AmazonSDEI&#10;Not working yet" />
-    <option name="LAST_COMMIT_MESSAGE" value="First solve AmazonSDEI&#10;Not working yet" />
+    <MESSAGE value="Add new DS exercise" />
+    <MESSAGE value="Intelie" />
+    <option name="LAST_COMMIT_MESSAGE" value="Intelie" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -229,23 +301,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/AmazonSDE/AmazonSDEI.java</url>
-          <line>33</line>
-          <option name="timeStamp" value="29" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/AmazonSDE/AmazonSDEI.java</url>
-          <line>26</line>
-          <option name="timeStamp" value="30" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/AmazonSDE/AmazonSDEI.java</url>
-          <line>27</line>
-          <option name="timeStamp" value="31" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/AmazonSDE/AmazonSDEI.java</url>
-          <line>70</line>
+          <line>53</line>
           <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/aula/atividadeListaEncadeada/Class/UtilsLinkedList.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="38" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -254,10 +316,5 @@
         <PinnedItemInfo parentTag="project.kazzak.palindrome.ListNode" memberName="val" />
       </pinned-members>
     </pin-to-top-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="hashmapFamily" />
-      </configuration>
-    </watches-manager>
   </component>
 </project>
