@@ -3,6 +3,7 @@ package project.kazzak.aula.atividadeListaEncadeada.Class;
 import java.util.LinkedList;
 import java.util.Random;
 import java.util.concurrent.atomic.AtomicReference;
+import java.util.stream.Collectors;
 
 public class UtilsLinkedList {
 
@@ -37,14 +38,31 @@ public class UtilsLinkedList {
     }
 
     public static LinkedList<Integer>distinct(LinkedList<Integer> integerLinkedList){
-        for (int i = 0; i < integerLinkedList.size(); i++) {
-            for (int j = 0; j < integerLinkedList.size(); j++) {
-                if (i!=j && integerLinkedList.get(j) == integerLinkedList.get(i)){
-                    integerLinkedList.remove(j);
-                }
+        LinkedList<Integer> newlinkedList = new LinkedList<>();
+        for (Integer item:integerLinkedList) {
+            if (!newlinkedList.contains(item)){
+                newlinkedList.add(item);
             }
         }
-        return integerLinkedList;
+        return newlinkedList;
+    }
+
+    public static LinkedList<Integer>unionLinkedList(LinkedList<Integer>aLinkedList, LinkedList<Integer>bLinkedList){
+        LinkedList<Integer> returnLinkedList = new LinkedList<>();
+        returnLinkedList.addAll(aLinkedList);
+        returnLinkedList.addAll(bLinkedList);
+        return returnLinkedList;
+    }
+
+    public static LinkedList<Integer>intersectionLinkedList(LinkedList<Integer>aLinkedList, LinkedList<Integer>bLinkedList){
+        LinkedList<Integer>unionLL = unionLinkedList(aLinkedList,bLinkedList);
+        unionLL.removeIf((Integer i )->(!aLinkedList.contains(i))||(!bLinkedList.contains(i)));
+        return unionLL;
+    }
+    public static LinkedList<Integer>DiffLinkedList(LinkedList<Integer>aLinkedList, LinkedList<Integer>bLinkedList){
+        LinkedList<Integer>unionLL = unionLinkedList(aLinkedList,bLinkedList);
+        unionLL.removeIf((Integer i )->aLinkedList.contains(i)&&bLinkedList.contains(i));
+        return unionLL;
     }
 
 }

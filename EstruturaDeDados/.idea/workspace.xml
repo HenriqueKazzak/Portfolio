@@ -5,37 +5,46 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79f23273-7e3d-4da5-9582-e9a95a00336f" name="Changes" comment="Intelie">
-      <change afterPath="$PROJECT_DIR$/../Java/Intelie/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/Intelie/challenge-eventstore/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/Intelie/challenge-eventstore/challenge-eventstore.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/Intelie/challenge-eventstore/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/Intelie/challenge-eventstore/src/main/java/net/intelie/challenges/Event.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/Intelie/challenge-eventstore/src/main/java/net/intelie/challenges/EventIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/Intelie/challenge-eventstore/src/main/java/net/intelie/challenges/EventIteratorClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/Intelie/challenge-eventstore/src/main/java/net/intelie/challenges/EventStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/Intelie/challenge-eventstore/src/main/java/net/intelie/challenges/EventStoreList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/Intelie/challenge-eventstore/src/test/java/net/intelie/challenges/EventIteratorClassTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/Intelie/challenge-eventstore/src/test/java/net/intelie/challenges/EventStoreListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/Intelie/challenge-eventstore/target/classes/net/intelie/challenges/Event.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/Intelie/challenge-eventstore/target/classes/net/intelie/challenges/EventIterator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/Intelie/challenge-eventstore/target/classes/net/intelie/challenges/EventIteratorClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/Intelie/challenge-eventstore/target/classes/net/intelie/challenges/EventStore.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/Intelie/challenge-eventstore/target/classes/net/intelie/challenges/EventStoreList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/Intelie/challenge-eventstore/target/test-classes/net/intelie/challenges/EventIteratorClassTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/Intelie/challenge-eventstore/target/test-classes/net/intelie/challenges/EventStoreListTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/aula/exercicios/AtividadePilha.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/Intelie/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/Intelie/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/Intelie/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/Intelie/.idea/jpa-buddy.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/Intelie/.idea/libraries/Maven__junit_junit_4_13_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/Intelie/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/Intelie/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/Intelie/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/Intelie/.idea/teste.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/Intelie/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/Intelie/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/Intelie/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/Intelie/challenge-eventstore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/aula/atividadeListaEncadeada/Class/UtilsLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/aula/atividadeListaEncadeada/Class/UtilsLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/aula/atividadeListaEncadeada/Exercicio7.java" beforeDir="false" afterPath="$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/aula/atividadeListaEncadeada/Exercicio7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estrutura_de_dados/target/production/EstruturaDeDados/project/kazzak/aula/atividadeListaEncadeada/Class/UtilsLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/estrutura_de_dados/target/production/EstruturaDeDados/project/kazzak/aula/atividadeListaEncadeada/Class/UtilsLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estrutura_de_dados/target/production/EstruturaDeDados/project/kazzak/aula/atividadeListaEncadeada/Exercicio3.class" beforeDir="false" afterPath="$PROJECT_DIR$/estrutura_de_dados/target/production/EstruturaDeDados/project/kazzak/aula/atividadeListaEncadeada/Exercicio3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estrutura_de_dados/target/production/EstruturaDeDados/project/kazzak/aula/atividadeListaEncadeada/Exercicio6.class" beforeDir="false" afterPath="$PROJECT_DIR$/estrutura_de_dados/target/production/EstruturaDeDados/project/kazzak/aula/atividadeListaEncadeada/Exercicio6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/aula1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/aula1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/aula1/src/main/java/com/kazzak/aula1/Aula1Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/aula1/src/main/java/com/kazzak/aula1/Aula1Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/aula1/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/aula1/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/androidTest/java/ifsc/hkarmier/myapplication/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ifsc/hkarmier/myapplication/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/test/java/ifsc/hkarmier/myapplication/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,12 +96,12 @@
     "WebServerToolWindowFactoryState": "false",
     "create.test.in.the.same.root": "true",
     "dart.analysis.tool.window.visible": "false",
-    "last_opened_file_path": "C:/Users/henrique.karmierczak/Documents/Portfolio/Java/Intelie",
+    "last_opened_file_path": "C:/Portfolio/EstruturaDeDados",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "settings.editor.selected.configurable": "preferences.pathVariables",
     "show.migrate.to.gradle.popup": "false"
   }
 }]]></component>
@@ -105,39 +114,13 @@
       <recent name="project.kazzak.aula" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exercicio6">
-    <configuration name="Exercicio1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="project.kazzak.aula.atividadeListaEncadeada.Exercicio1" />
+  <component name="RunManager" selected="Application.AtividadePilha">
+    <configuration name="AtividadePilha" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="project.kazzak.aula.exercicios.AtividadePilha" />
       <module name="EstruturaDeDados" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="project.kazzak.aula.atividadeListaEncadeada.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exercicio2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="project.kazzak.aula.atividadeListaEncadeada.Exercicio2" />
-      <module name="EstruturaDeDados" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="project.kazzak.aula.atividadeListaEncadeada.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exercicio3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="project.kazzak.aula.atividadeListaEncadeada.Exercicio3" />
-      <module name="EstruturaDeDados" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="project.kazzak.aula.atividadeListaEncadeada.*" />
+          <option name="PATTERN" value="project.kazzak.aula.exercicios.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,13 +154,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Exercicio7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="project.kazzak.aula.atividadeListaEncadeada.Exercicio7" />
+      <module name="EstruturaDeDados" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="project.kazzak.aula.atividadeListaEncadeada.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TwoNumbers" />
+      <module name="EstruturaDeDados" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AtividadePilha" />
+        <item itemvalue="Application.TwoNumbers" />
+        <item itemvalue="Application.Exercicio7" />
         <item itemvalue="Application.Exercicio6" />
         <item itemvalue="Application.Exercicio4" />
-        <item itemvalue="Application.Exercicio3" />
-        <item itemvalue="Application.Exercicio2" />
-        <item itemvalue="Application.Exercicio1" />
       </list>
     </recent_temporary>
   </component>
@@ -194,6 +197,10 @@
       <workItem from="1663972727351" duration="408000" />
       <workItem from="1664128743307" duration="1168000" />
       <workItem from="1664304603192" duration="12948000" />
+      <workItem from="1664324878053" duration="1343000" />
+      <workItem from="1664326518907" duration="1117000" />
+      <workItem from="1664892041181" duration="903000" />
+      <workItem from="1664921739890" duration="9929000" />
     </task>
     <task id="LOCAL-00001" summary="projeto renomeado&#10;renomeado para Estrutura de Dados">
       <created>1661356406078</created>
@@ -306,8 +313,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/aula/atividadeListaEncadeada/Class/UtilsLinkedList.java</url>
-          <line>27</line>
+          <line>28</line>
           <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/estrutura_de_dados/src/main/java/project/kazzak/aula/atividadeListaEncadeada/Class/UtilsLinkedList.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="44" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -316,5 +328,8 @@
         <PinnedItemInfo parentTag="project.kazzak.palindrome.ListNode" memberName="val" />
       </pinned-members>
     </pin-to-top-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/EstruturaDeDados$TwoNumbers.ic" NAME="TwoNumbers Coverage Results" MODIFIED="1664892314030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
